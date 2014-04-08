@@ -1,4 +1,4 @@
-package com.game.dare;
+package com.viniciusmo.classicpuzzle;
 
 import java.awt.Color;
 

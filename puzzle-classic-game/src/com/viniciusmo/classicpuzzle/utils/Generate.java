@@ -1,4 +1,4 @@
-package com.game.dare.utils;
+package com.viniciusmo.classicpuzzle.utils;
 
 import java.util.LinkedList;
 import java.util.Queue;

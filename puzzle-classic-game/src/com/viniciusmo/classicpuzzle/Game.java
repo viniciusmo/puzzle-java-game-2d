@@ -1,4 +1,4 @@
-package com.game.dare;
+package com.viniciusmo.classicpuzzle;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -16,7 +16,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-import com.game.dare.utils.Generate;
+import com.viniciusmo.classicpuzzle.utils.Generate;
 
 public class Game extends JPanel implements MouseListener {
 	private static final long serialVersionUID = 1L;
